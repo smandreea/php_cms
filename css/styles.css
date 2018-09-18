@@ -1,0 +1,13 @@
+.pager li .active_page {
+   background-color: #dadaff !important; 
+}
+
+/* Logo */
+.navbar-brand {
+    padding: 0;
+    margin-left: 10px;
+}
+
+.navbar-brand i {
+    font-size: 50px;
+}
